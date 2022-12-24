@@ -7,3 +7,4 @@ Fetches the real-time data from firebase cloud and displays vehicle details, sca
 
 
 <img src="https://user-images.githubusercontent.com/76056451/209435516-7fd94932-71f3-4f28-8b4a-023be5d70946.jpg" width=300 height=600 /> <img src="https://user-images.githubusercontent.com/76056451/209435475-59205dfb-81ba-46ec-a372-f945a7803f83.jpg" width=300 height=600 align="right"/>
+     
